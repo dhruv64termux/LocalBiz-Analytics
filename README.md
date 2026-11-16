@@ -74,3 +74,23 @@ data/                  Sample data and test files
 ## Tech stack
 
 Python · Pandas · NumPy · Plotly · Streamlit · openpyxl
+
+## ABOUT ME
+
+# Hi, I'm Dhruv Rajpurohit 👋
+
+I'm a BSc Data Science student passionate about Data Analytics, Machine Learning and building practical solutions using Python.
+
+I enjoy working with data, exploring insights and developing projects that solve real-world problems.
+
+### Skills & Interests
+- Python, SQL, Pandas and NumPy
+- Data Analytics and Visualization
+- Machine Learning
+- Streamlit and Plotly
+
+I'm continuously learning, building projects and looking for opportunities to grow in the field of Data Science.
+
+### Let's Connect
+- **GitHub:** https://github.com/dhruv64termux
+- **LinkedIn:** https://www.linkedin.com/in/dhruv-rajpurohit-622836359/
