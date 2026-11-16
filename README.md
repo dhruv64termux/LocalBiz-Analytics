@@ -14,7 +14,6 @@ Built with **Python, Pandas, Plotly and Streamlit**. UI designed in Stitch.
 |---|---|
 | ![Overview](docs/screenshots/overview1.png) | ![Products](docs/screenshots/products.png.png) |
 
-_Add your own screenshots to `docs/screenshots/` using the file names above._
 
 ## What it does
 
@@ -29,7 +28,7 @@ _Add your own screenshots to `docs/screenshots/` using the file names above._
 ## Run it locally
 
 ```bash
-git clone https://github.com/<your-username>/localbiz-analytics.git
+git clone https://github.com/dhruv64termux/localbiz-analytics.git
 cd localbiz-analytics
 
 python -m venv venv
