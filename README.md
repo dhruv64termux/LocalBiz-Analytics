@@ -12,7 +12,7 @@ Built with **Python, Pandas, Plotly and Streamlit**. UI designed in Stitch.
 
 | Overview | Product Performance |
 |---|---|
-| ![Overview](docs/screenshots/overview.png) | ![Products](docs/screenshots/products.png) |
+| ![Overview](docs/screenshots/overviews.png) | ![Products](docs/screenshots/products.png) |
 
 
 ## What it does
