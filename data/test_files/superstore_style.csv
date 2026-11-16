@@ -1,0 +1,401 @@
+Row ID,Order ID,Order Date,Ship Date,Segment,Customer ID,Customer Name,Region,Product ID,Category,Product Name,Sales,Quantity,Discount,Profit
+1,CA-2016-100000,6/21/2016,6/24/2016,Consumer,CU-47,x,West,OFF-1,Office Supplies,Staples,36,3,0,19.8
+2,CA-2016-100000,7/5/2016,7/8/2016,Corporate,CU-73,x,West,OFF-5,Office Supplies,Notebook A5,36,4,0,14.4
+3,CA-2016-100001,10/2/2016,10/5/2016,Consumer,CU-88,x,West,TEC-2,Technology,Wireless Mouse,200,5,0,60.0
+4,CA-2016-100001,12/12/2016,12/15/2016,Consumer,CU-35,x,West,OFF-1,Office Supplies,Staples,48,4,0,26.4
+5,CA-2016-100002,1/13/2016,1/16/2016,Home Office,CU-30,x,West,FUR-3,Furniture,Bookcase,1200,4,0,-120.0
+6,CA-2016-100002,2/22/2016,2/25/2016,Home Office,CU-115,x,West,FUR-4,Furniture,Desk Chair,180,1,0,14.4
+7,CA-2016-100003,10/27/2016,10/30/2016,Corporate,CU-93,x,West,FUR-3,Furniture,Bookcase,900,3,0,-90.0
+8,CA-2016-100003,12/12/2016,12/15/2016,Home Office,CU-73,x,West,OFF-1,Office Supplies,Staples,36,3,0,19.8
+9,CA-2016-100004,3/31/2016,4/3/2016,Home Office,CU-23,x,West,FUR-4,Furniture,Desk Chair,180,1,0,14.4
+10,CA-2016-100004,4/23/2016,4/26/2016,Corporate,CU-68,x,West,FUR-3,Furniture,Bookcase,1200,4,0,-120.0
+11,CA-2016-100005,11/13/2016,11/16/2016,Consumer,CU-114,x,West,FUR-4,Furniture,Desk Chair,180,1,0,14.4
+12,CA-2016-100005,6/3/2016,6/6/2016,Home Office,CU-61,x,West,OFF-5,Office Supplies,Notebook A5,9,1,0,3.6
+13,CA-2016-100006,4/9/2016,4/12/2016,Home Office,CU-86,x,West,OFF-5,Office Supplies,Notebook A5,9,1,0,3.6
+14,CA-2016-100006,10/29/2016,11/1/2016,Corporate,CU-16,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+15,CA-2016-100007,4/3/2016,4/6/2016,Corporate,CU-21,x,West,OFF-1,Office Supplies,Staples,12,1,0,6.6
+16,CA-2016-100007,5/29/2016,6/1/2016,Corporate,CU-64,x,West,OFF-5,Office Supplies,Notebook A5,9,1,0,3.6
+17,CA-2016-100008,8/22/2016,8/25/2016,Home Office,CU-114,x,West,TEC-2,Technology,Wireless Mouse,120,3,0,36.0
+18,CA-2016-100008,7/19/2016,7/22/2016,Consumer,CU-95,x,West,TEC-2,Technology,Wireless Mouse,200,5,0,60.0
+19,CA-2016-100009,2/1/2016,2/4/2016,Corporate,CU-101,x,West,FUR-3,Furniture,Bookcase,1200,4,0,-120.0
+20,CA-2016-100009,1/11/2016,1/14/2016,Home Office,CU-3,x,West,FUR-3,Furniture,Bookcase,1500,5,0,-150.0
+21,CA-2016-100010,11/11/2016,11/14/2016,Corporate,CU-43,x,West,OFF-1,Office Supplies,Staples,12,1,0,6.6
+22,CA-2016-100010,10/2/2016,10/5/2016,Home Office,CU-72,x,West,OFF-1,Office Supplies,Staples,12,1,0,6.6
+23,CA-2016-100011,11/1/2016,11/4/2016,Corporate,CU-32,x,West,OFF-1,Office Supplies,Staples,24,2,0,13.2
+24,CA-2016-100011,7/15/2016,7/18/2016,Corporate,CU-12,x,West,OFF-5,Office Supplies,Notebook A5,18,2,0,7.2
+25,CA-2016-100012,10/25/2016,10/28/2016,Corporate,CU-78,x,West,OFF-5,Office Supplies,Notebook A5,36,4,0,14.4
+26,CA-2016-100012,4/30/2016,5/3/2016,Corporate,CU-5,x,West,OFF-1,Office Supplies,Staples,48,4,0,26.4
+27,CA-2016-100013,6/14/2016,6/17/2016,Home Office,CU-82,x,West,OFF-1,Office Supplies,Staples,36,3,0,19.8
+28,CA-2016-100013,10/14/2016,10/17/2016,Consumer,CU-46,x,West,TEC-2,Technology,Wireless Mouse,40,1,0,12.0
+29,CA-2016-100014,2/15/2016,2/18/2016,Corporate,CU-10,x,West,OFF-1,Office Supplies,Staples,12,1,0,6.6
+30,CA-2016-100014,4/20/2016,4/23/2016,Corporate,CU-50,x,West,TEC-2,Technology,Wireless Mouse,80,2,0,24.0
+31,CA-2016-100015,2/15/2016,2/18/2016,Home Office,CU-106,x,West,OFF-1,Office Supplies,Staples,36,3,0,19.8
+32,CA-2016-100015,6/14/2016,6/17/2016,Corporate,CU-3,x,West,OFF-1,Office Supplies,Staples,24,2,0,13.2
+33,CA-2016-100016,12/22/2016,12/25/2016,Home Office,CU-8,x,West,FUR-4,Furniture,Desk Chair,900,5,0,72.0
+34,CA-2016-100016,2/18/2016,2/21/2016,Corporate,CU-115,x,West,TEC-2,Technology,Wireless Mouse,40,1,0,12.0
+35,CA-2016-100017,5/19/2016,5/22/2016,Home Office,CU-41,x,West,OFF-5,Office Supplies,Notebook A5,36,4,0,14.4
+36,CA-2016-100017,5/27/2016,5/30/2016,Consumer,CU-47,x,West,TEC-6,Technology,USB Hub,25,1,0,6.25
+37,CA-2016-100018,11/25/2016,11/28/2016,Corporate,CU-105,x,West,FUR-3,Furniture,Bookcase,600,2,0,-60.0
+38,CA-2016-100018,3/15/2016,3/18/2016,Corporate,CU-10,x,West,FUR-3,Furniture,Bookcase,900,3,0,-90.0
+39,CA-2016-100019,7/2/2016,7/5/2016,Consumer,CU-75,x,West,TEC-6,Technology,USB Hub,125,5,0,31.25
+40,CA-2016-100019,4/5/2016,4/8/2016,Consumer,CU-14,x,West,TEC-6,Technology,USB Hub,25,1,0,6.25
+41,CA-2016-100020,1/8/2016,1/11/2016,Home Office,CU-11,x,West,TEC-6,Technology,USB Hub,75,3,0,18.75
+42,CA-2016-100020,9/30/2016,10/3/2016,Corporate,CU-74,x,West,OFF-5,Office Supplies,Notebook A5,36,4,0,14.4
+43,CA-2016-100021,1/23/2016,1/26/2016,Corporate,CU-97,x,West,OFF-1,Office Supplies,Staples,12,1,0,6.6
+44,CA-2016-100021,4/12/2016,4/15/2016,Corporate,CU-109,x,West,TEC-6,Technology,USB Hub,100,4,0,25.0
+45,CA-2016-100022,6/30/2016,7/3/2016,Corporate,CU-83,x,West,OFF-1,Office Supplies,Staples,48,4,0,26.4
+46,CA-2016-100022,6/26/2016,6/29/2016,Home Office,CU-3,x,West,TEC-6,Technology,USB Hub,25,1,0,6.25
+47,CA-2016-100023,2/12/2016,2/15/2016,Consumer,CU-115,x,West,FUR-3,Furniture,Bookcase,300,1,0,-30.0
+48,CA-2016-100023,12/23/2016,12/26/2016,Home Office,CU-113,x,West,FUR-3,Furniture,Bookcase,1200,4,0,-120.0
+49,CA-2016-100024,9/30/2016,10/3/2016,Home Office,CU-90,x,West,OFF-1,Office Supplies,Staples,24,2,0,13.2
+50,CA-2016-100024,12/17/2016,12/20/2016,Corporate,CU-20,x,West,FUR-3,Furniture,Bookcase,300,1,0,-30.0
+51,CA-2016-100025,2/3/2016,2/6/2016,Corporate,CU-66,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+52,CA-2016-100025,9/21/2016,9/24/2016,Home Office,CU-60,x,West,FUR-3,Furniture,Bookcase,900,3,0,-90.0
+53,CA-2016-100026,4/16/2016,4/19/2016,Home Office,CU-69,x,West,FUR-3,Furniture,Bookcase,900,3,0,-90.0
+54,CA-2016-100026,7/16/2016,7/19/2016,Consumer,CU-55,x,West,FUR-3,Furniture,Bookcase,1500,5,0,-150.0
+55,CA-2016-100027,12/3/2016,12/6/2016,Corporate,CU-7,x,West,TEC-6,Technology,USB Hub,125,5,0,31.25
+56,CA-2016-100027,4/11/2016,4/14/2016,Home Office,CU-67,x,West,FUR-4,Furniture,Desk Chair,360,2,0,28.8
+57,CA-2016-100028,9/21/2016,9/24/2016,Corporate,CU-30,x,West,FUR-4,Furniture,Desk Chair,720,4,0,57.6
+58,CA-2016-100028,2/28/2016,3/2/2016,Home Office,CU-113,x,West,FUR-4,Furniture,Desk Chair,360,2,0,28.8
+59,CA-2016-100029,4/27/2016,4/30/2016,Consumer,CU-70,x,West,FUR-3,Furniture,Bookcase,1200,4,0,-120.0
+60,CA-2016-100029,12/20/2016,12/23/2016,Consumer,CU-7,x,West,OFF-1,Office Supplies,Staples,12,1,0,6.6
+61,CA-2016-100030,6/2/2016,6/5/2016,Home Office,CU-17,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+62,CA-2016-100030,7/7/2016,7/10/2016,Consumer,CU-1,x,West,OFF-5,Office Supplies,Notebook A5,45,5,0,18.0
+63,CA-2016-100031,4/16/2016,4/19/2016,Corporate,CU-7,x,West,TEC-2,Technology,Wireless Mouse,80,2,0,24.0
+64,CA-2016-100031,2/12/2016,2/15/2016,Consumer,CU-6,x,West,OFF-1,Office Supplies,Staples,48,4,0,26.4
+65,CA-2016-100032,6/3/2016,6/6/2016,Consumer,CU-10,x,West,FUR-3,Furniture,Bookcase,300,1,0,-30.0
+66,CA-2016-100032,8/15/2016,8/18/2016,Home Office,CU-69,x,West,FUR-3,Furniture,Bookcase,600,2,0,-60.0
+67,CA-2016-100033,6/15/2016,6/18/2016,Consumer,CU-32,x,West,TEC-2,Technology,Wireless Mouse,200,5,0,60.0
+68,CA-2016-100033,10/10/2016,10/13/2016,Corporate,CU-99,x,West,OFF-1,Office Supplies,Staples,24,2,0,13.2
+69,CA-2016-100034,5/12/2016,5/15/2016,Home Office,CU-16,x,West,FUR-3,Furniture,Bookcase,1200,4,0,-120.0
+70,CA-2016-100034,8/11/2016,8/14/2016,Corporate,CU-99,x,West,OFF-5,Office Supplies,Notebook A5,45,5,0,18.0
+71,CA-2016-100035,10/9/2016,10/12/2016,Consumer,CU-75,x,West,OFF-5,Office Supplies,Notebook A5,9,1,0,3.6
+72,CA-2016-100035,11/30/2016,12/3/2016,Home Office,CU-29,x,West,FUR-3,Furniture,Bookcase,300,1,0,-30.0
+73,CA-2016-100036,6/4/2016,6/7/2016,Corporate,CU-63,x,West,TEC-2,Technology,Wireless Mouse,120,3,0,36.0
+74,CA-2016-100036,1/15/2016,1/18/2016,Corporate,CU-65,x,West,TEC-2,Technology,Wireless Mouse,120,3,0,36.0
+75,CA-2016-100037,9/19/2016,9/22/2016,Corporate,CU-93,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+76,CA-2016-100037,7/11/2016,7/14/2016,Home Office,CU-109,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+77,CA-2016-100038,11/14/2016,11/17/2016,Home Office,CU-37,x,West,TEC-2,Technology,Wireless Mouse,120,3,0,36.0
+78,CA-2016-100038,6/16/2016,6/19/2016,Corporate,CU-58,x,West,TEC-2,Technology,Wireless Mouse,40,1,0,12.0
+79,CA-2016-100039,5/14/2016,5/17/2016,Corporate,CU-75,x,West,OFF-5,Office Supplies,Notebook A5,18,2,0,7.2
+80,CA-2016-100039,1/23/2016,1/26/2016,Consumer,CU-5,x,West,OFF-5,Office Supplies,Notebook A5,27,3,0,10.8
+81,CA-2016-100040,6/15/2016,6/18/2016,Corporate,CU-7,x,West,FUR-4,Furniture,Desk Chair,900,5,0,72.0
+82,CA-2016-100040,8/22/2016,8/25/2016,Consumer,CU-97,x,West,OFF-1,Office Supplies,Staples,60,5,0,33.0
+83,CA-2016-100041,10/8/2016,10/11/2016,Consumer,CU-80,x,West,OFF-1,Office Supplies,Staples,60,5,0,33.0
+84,CA-2016-100041,11/7/2016,11/10/2016,Corporate,CU-53,x,West,FUR-3,Furniture,Bookcase,300,1,0,-30.0
+85,CA-2016-100042,3/19/2016,3/22/2016,Consumer,CU-76,x,West,TEC-2,Technology,Wireless Mouse,120,3,0,36.0
+86,CA-2016-100042,8/4/2016,8/7/2016,Corporate,CU-81,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+87,CA-2016-100043,10/20/2016,10/23/2016,Consumer,CU-43,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+88,CA-2016-100043,4/4/2016,4/7/2016,Consumer,CU-51,x,West,TEC-6,Technology,USB Hub,75,3,0,18.75
+89,CA-2016-100044,5/5/2016,5/8/2016,Consumer,CU-115,x,West,TEC-6,Technology,USB Hub,25,1,0,6.25
+90,CA-2016-100044,11/2/2016,11/5/2016,Corporate,CU-100,x,West,OFF-1,Office Supplies,Staples,48,4,0,26.4
+91,CA-2016-100045,7/31/2016,8/3/2016,Consumer,CU-113,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+92,CA-2016-100045,7/4/2016,7/7/2016,Consumer,CU-117,x,West,FUR-4,Furniture,Desk Chair,900,5,0,72.0
+93,CA-2016-100046,9/2/2016,9/5/2016,Corporate,CU-57,x,West,FUR-3,Furniture,Bookcase,300,1,0,-30.0
+94,CA-2016-100046,7/5/2016,7/8/2016,Consumer,CU-74,x,West,OFF-5,Office Supplies,Notebook A5,18,2,0,7.2
+95,CA-2016-100047,12/24/2016,12/27/2016,Corporate,CU-12,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+96,CA-2016-100047,10/1/2016,10/4/2016,Consumer,CU-77,x,West,OFF-1,Office Supplies,Staples,36,3,0,19.8
+97,CA-2016-100048,1/20/2016,1/23/2016,Home Office,CU-118,x,West,FUR-4,Furniture,Desk Chair,360,2,0,28.8
+98,CA-2016-100048,2/23/2016,2/26/2016,Corporate,CU-36,x,West,TEC-6,Technology,USB Hub,75,3,0,18.75
+99,CA-2016-100049,7/17/2016,7/20/2016,Corporate,CU-56,x,West,OFF-1,Office Supplies,Staples,60,5,0,33.0
+100,CA-2016-100049,10/26/2016,10/29/2016,Home Office,CU-35,x,West,FUR-3,Furniture,Bookcase,600,2,0,-60.0
+101,CA-2016-100050,1/26/2016,1/29/2016,Home Office,CU-115,x,West,OFF-1,Office Supplies,Staples,60,5,0,33.0
+102,CA-2016-100050,9/6/2016,9/9/2016,Home Office,CU-34,x,West,OFF-5,Office Supplies,Notebook A5,36,4,0,14.4
+103,CA-2016-100051,10/4/2016,10/7/2016,Home Office,CU-26,x,West,OFF-1,Office Supplies,Staples,48,4,0,26.4
+104,CA-2016-100051,10/14/2016,10/17/2016,Home Office,CU-65,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+105,CA-2016-100052,11/14/2016,11/17/2016,Consumer,CU-42,x,West,TEC-2,Technology,Wireless Mouse,120,3,0,36.0
+106,CA-2016-100052,3/10/2016,3/13/2016,Home Office,CU-21,x,West,FUR-4,Furniture,Desk Chair,900,5,0,72.0
+107,CA-2016-100053,7/21/2016,7/24/2016,Corporate,CU-5,x,West,OFF-5,Office Supplies,Notebook A5,36,4,0,14.4
+108,CA-2016-100053,10/19/2016,10/22/2016,Home Office,CU-25,x,West,FUR-4,Furniture,Desk Chair,180,1,0,14.4
+109,CA-2016-100054,5/10/2016,5/13/2016,Corporate,CU-87,x,West,OFF-5,Office Supplies,Notebook A5,45,5,0,18.0
+110,CA-2016-100054,3/10/2016,3/13/2016,Home Office,CU-6,x,West,FUR-3,Furniture,Bookcase,1500,5,0,-150.0
+111,CA-2016-100055,6/24/2016,6/27/2016,Corporate,CU-53,x,West,FUR-3,Furniture,Bookcase,1200,4,0,-120.0
+112,CA-2016-100055,1/30/2016,2/2/2016,Corporate,CU-85,x,West,FUR-3,Furniture,Bookcase,900,3,0,-90.0
+113,CA-2016-100056,3/21/2016,3/24/2016,Corporate,CU-62,x,West,TEC-2,Technology,Wireless Mouse,80,2,0,24.0
+114,CA-2016-100056,11/8/2016,11/11/2016,Home Office,CU-47,x,West,FUR-3,Furniture,Bookcase,600,2,0,-60.0
+115,CA-2016-100057,8/31/2016,9/3/2016,Home Office,CU-19,x,West,FUR-4,Furniture,Desk Chair,540,3,0,43.2
+116,CA-2016-100057,11/10/2016,11/13/2016,Home Office,CU-51,x,West,OFF-1,Office Supplies,Staples,24,2,0,13.2
+117,CA-2016-100058,11/2/2016,11/5/2016,Consumer,CU-96,x,West,OFF-1,Office Supplies,Staples,36,3,0,19.8
+118,CA-2016-100058,11/15/2016,11/18/2016,Consumer,CU-67,x,West,OFF-1,Office Supplies,Staples,48,4,0,26.4
+119,CA-2016-100059,4/23/2016,4/26/2016,Consumer,CU-24,x,West,OFF-5,Office Supplies,Notebook A5,45,5,0,18.0
+120,CA-2016-100059,6/21/2016,6/24/2016,Consumer,CU-47,x,West,OFF-1,Office Supplies,Staples,12,1,0,6.6
+121,CA-2016-100060,8/13/2016,8/16/2016,Home Office,CU-67,x,West,FUR-3,Furniture,Bookcase,300,1,0,-30.0
+122,CA-2016-100060,4/10/2016,4/13/2016,Corporate,CU-16,x,West,OFF-5,Office Supplies,Notebook A5,27,3,0,10.8
+123,CA-2016-100061,12/1/2016,12/4/2016,Consumer,CU-67,x,West,FUR-3,Furniture,Bookcase,1200,4,0,-120.0
+124,CA-2016-100061,1/3/2016,1/6/2016,Home Office,CU-110,x,West,FUR-4,Furniture,Desk Chair,540,3,0,43.2
+125,CA-2016-100062,11/1/2016,11/4/2016,Home Office,CU-27,x,West,FUR-4,Furniture,Desk Chair,900,5,0,72.0
+126,CA-2016-100062,8/23/2016,8/26/2016,Consumer,CU-109,x,West,TEC-2,Technology,Wireless Mouse,40,1,0,12.0
+127,CA-2016-100063,4/2/2016,4/5/2016,Consumer,CU-91,x,West,FUR-3,Furniture,Bookcase,300,1,0,-30.0
+128,CA-2016-100063,9/19/2016,9/22/2016,Corporate,CU-43,x,West,FUR-3,Furniture,Bookcase,600,2,0,-60.0
+129,CA-2016-100064,5/30/2016,6/2/2016,Corporate,CU-111,x,West,FUR-3,Furniture,Bookcase,900,3,0,-90.0
+130,CA-2016-100064,10/31/2016,11/3/2016,Home Office,CU-20,x,West,OFF-5,Office Supplies,Notebook A5,9,1,0,3.6
+131,CA-2016-100065,12/30/2016,1/2/2017,Consumer,CU-47,x,West,FUR-4,Furniture,Desk Chair,720,4,0,57.6
+132,CA-2016-100065,4/12/2016,4/15/2016,Consumer,CU-115,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+133,CA-2016-100066,6/20/2016,6/23/2016,Home Office,CU-85,x,West,FUR-3,Furniture,Bookcase,600,2,0,-60.0
+134,CA-2016-100066,3/19/2016,3/22/2016,Consumer,CU-91,x,West,OFF-5,Office Supplies,Notebook A5,45,5,0,18.0
+135,CA-2016-100067,9/9/2016,9/12/2016,Corporate,CU-87,x,West,FUR-4,Furniture,Desk Chair,720,4,0,57.6
+136,CA-2016-100067,8/21/2016,8/24/2016,Corporate,CU-33,x,West,OFF-5,Office Supplies,Notebook A5,45,5,0,18.0
+137,CA-2016-100068,11/4/2016,11/7/2016,Corporate,CU-96,x,West,FUR-3,Furniture,Bookcase,1200,4,0,-120.0
+138,CA-2016-100068,10/20/2016,10/23/2016,Corporate,CU-108,x,West,OFF-5,Office Supplies,Notebook A5,45,5,0,18.0
+139,CA-2016-100069,12/22/2016,12/25/2016,Home Office,CU-12,x,West,FUR-3,Furniture,Bookcase,1500,5,0,-150.0
+140,CA-2016-100069,12/17/2016,12/20/2016,Home Office,CU-55,x,West,TEC-2,Technology,Wireless Mouse,80,2,0,24.0
+141,CA-2016-100070,11/22/2016,11/25/2016,Home Office,CU-50,x,West,FUR-3,Furniture,Bookcase,1500,5,0,-150.0
+142,CA-2016-100070,2/24/2016,2/27/2016,Consumer,CU-3,x,West,TEC-2,Technology,Wireless Mouse,80,2,0,24.0
+143,CA-2016-100071,1/16/2016,1/19/2016,Corporate,CU-93,x,West,FUR-4,Furniture,Desk Chair,360,2,0,28.8
+144,CA-2016-100071,6/25/2016,6/28/2016,Corporate,CU-20,x,West,TEC-2,Technology,Wireless Mouse,40,1,0,12.0
+145,CA-2016-100072,5/5/2016,5/8/2016,Home Office,CU-64,x,West,FUR-4,Furniture,Desk Chair,360,2,0,28.8
+146,CA-2016-100072,11/22/2016,11/25/2016,Corporate,CU-106,x,West,OFF-5,Office Supplies,Notebook A5,18,2,0,7.2
+147,CA-2016-100073,10/17/2016,10/20/2016,Consumer,CU-67,x,West,FUR-4,Furniture,Desk Chair,360,2,0,28.8
+148,CA-2016-100073,6/3/2016,6/6/2016,Consumer,CU-111,x,West,OFF-5,Office Supplies,Notebook A5,36,4,0,14.4
+149,CA-2016-100074,7/29/2016,8/1/2016,Home Office,CU-17,x,West,OFF-5,Office Supplies,Notebook A5,45,5,0,18.0
+150,CA-2016-100074,8/3/2016,8/6/2016,Home Office,CU-81,x,West,OFF-1,Office Supplies,Staples,48,4,0,26.4
+151,CA-2016-100075,11/21/2016,11/24/2016,Home Office,CU-4,x,West,TEC-6,Technology,USB Hub,75,3,0,18.75
+152,CA-2016-100075,1/9/2016,1/12/2016,Consumer,CU-90,x,West,OFF-1,Office Supplies,Staples,12,1,0,6.6
+153,CA-2016-100076,6/27/2016,6/30/2016,Home Office,CU-38,x,West,TEC-2,Technology,Wireless Mouse,40,1,0,12.0
+154,CA-2016-100076,9/2/2016,9/5/2016,Home Office,CU-89,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+155,CA-2016-100077,6/14/2016,6/17/2016,Corporate,CU-11,x,West,FUR-4,Furniture,Desk Chair,360,2,0,28.8
+156,CA-2016-100077,12/1/2016,12/4/2016,Home Office,CU-39,x,West,FUR-3,Furniture,Bookcase,600,2,0,-60.0
+157,CA-2016-100078,12/12/2016,12/15/2016,Corporate,CU-39,x,West,TEC-2,Technology,Wireless Mouse,160,4,0,48.0
+158,CA-2016-100078,10/28/2016,10/31/2016,Consumer,CU-65,x,West,TEC-6,Technology,USB Hub,100,4,0,25.0
+159,CA-2016-100079,6/18/2016,6/21/2016,Home Office,CU-88,x,West,TEC-6,Technology,USB Hub,125,5,0,31.25
+160,CA-2016-100079,11/19/2016,11/22/2016,Consumer,CU-58,x,West,FUR-4,Furniture,Desk Chair,540,3,0,43.2
+161,CA-2016-100080,1/27/2016,1/30/2016,Consumer,CU-104,x,West,FUR-3,Furniture,Bookcase,900,3,0,-90.0
+162,CA-2016-100080,8/29/2016,9/1/2016,Corporate,CU-51,x,West,TEC-2,Technology,Wireless Mouse,40,1,0,12.0
+163,CA-2016-100081,4/7/2016,4/10/2016,Consumer,CU-52,x,West,OFF-1,Office Supplies,Staples,36,3,0,19.8
+164,CA-2016-100081,3/30/2016,4/2/2016,Corporate,CU-60,x,West,OFF-1,Office Supplies,Staples,36,3,0,19.8
+165,CA-2016-100082,9/5/2016,9/8/2016,Home Office,CU-82,x,West,TEC-2,Technology,Wireless Mouse,120,3,0,36.0
+166,CA-2016-100082,10/7/2016,10/10/2016,Corporate,CU-73,x,West,OFF-1,Office Supplies,Staples,24,2,0,13.2
+167,CA-2016-100083,11/20/2016,11/23/2016,Consumer,CU-16,x,West,OFF-1,Office Supplies,Staples,48,4,0,26.4
+168,CA-2016-100083,3/18/2016,3/21/2016,Home Office,CU-113,x,West,OFF-5,Office Supplies,Notebook A5,18,2,0,7.2
+169,CA-2016-100084,11/14/2016,11/17/2016,Corporate,CU-119,x,West,TEC-2,Technology,Wireless Mouse,200,5,0,60.0
+170,CA-2016-100084,10/30/2016,11/2/2016,Corporate,CU-99,x,West,OFF-5,Office Supplies,Notebook A5,9,1,0,3.6
+171,CA-2016-100085,4/24/2016,4/27/2016,Home Office,CU-108,x,West,OFF-5,Office Supplies,Notebook A5,45,5,0,18.0
+172,CA-2016-100085,1/23/2016,1/26/2016,Consumer,CU-81,x,West,OFF-1,Office Supplies,Staples,48,4,0,26.4
+173,CA-2016-100086,10/8/2016,10/11/2016,Home Office,CU-69,x,West,OFF-5,Office Supplies,Notebook A5,36,4,0,14.4
+174,CA-2016-100086,10/28/2016,10/31/2016,Consumer,CU-60,x,West,FUR-3,Furniture,Bookcase,1200,4,0,-120.0
+175,CA-2016-100087,6/17/2016,6/20/2016,Home Office,CU-12,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+176,CA-2016-100087,3/1/2016,3/4/2016,Corporate,CU-90,x,West,TEC-6,Technology,USB Hub,125,5,0,31.25
+177,CA-2016-100088,2/23/2016,2/26/2016,Corporate,CU-98,x,West,FUR-4,Furniture,Desk Chair,180,1,0,14.4
+178,CA-2016-100088,5/16/2016,5/19/2016,Home Office,CU-76,x,West,TEC-2,Technology,Wireless Mouse,80,2,0,24.0
+179,CA-2016-100089,10/3/2016,10/6/2016,Home Office,CU-26,x,West,FUR-3,Furniture,Bookcase,600,2,0,-60.0
+180,CA-2016-100089,4/25/2016,4/28/2016,Consumer,CU-9,x,West,FUR-3,Furniture,Bookcase,300,1,0,-30.0
+181,CA-2016-100090,1/12/2016,1/15/2016,Corporate,CU-9,x,West,TEC-2,Technology,Wireless Mouse,40,1,0,12.0
+182,CA-2016-100090,9/9/2016,9/12/2016,Consumer,CU-100,x,West,OFF-1,Office Supplies,Staples,12,1,0,6.6
+183,CA-2016-100091,9/28/2016,10/1/2016,Corporate,CU-16,x,West,OFF-5,Office Supplies,Notebook A5,27,3,0,10.8
+184,CA-2016-100091,3/6/2016,3/9/2016,Corporate,CU-65,x,West,FUR-4,Furniture,Desk Chair,540,3,0,43.2
+185,CA-2016-100092,7/23/2016,7/26/2016,Consumer,CU-25,x,West,FUR-4,Furniture,Desk Chair,540,3,0,43.2
+186,CA-2016-100092,5/24/2016,5/27/2016,Corporate,CU-104,x,West,OFF-1,Office Supplies,Staples,36,3,0,19.8
+187,CA-2016-100093,7/1/2016,7/4/2016,Home Office,CU-60,x,West,FUR-3,Furniture,Bookcase,600,2,0,-60.0
+188,CA-2016-100093,1/3/2016,1/6/2016,Corporate,CU-28,x,West,FUR-3,Furniture,Bookcase,1500,5,0,-150.0
+189,CA-2016-100094,8/19/2016,8/22/2016,Consumer,CU-58,x,West,OFF-5,Office Supplies,Notebook A5,36,4,0,14.4
+190,CA-2016-100094,4/5/2016,4/8/2016,Corporate,CU-43,x,West,FUR-4,Furniture,Desk Chair,720,4,0,57.6
+191,CA-2016-100095,7/21/2016,7/24/2016,Corporate,CU-44,x,West,FUR-4,Furniture,Desk Chair,540,3,0,43.2
+192,CA-2016-100095,6/2/2016,6/5/2016,Home Office,CU-109,x,West,TEC-2,Technology,Wireless Mouse,200,5,0,60.0
+193,CA-2016-100096,8/10/2016,8/13/2016,Consumer,CU-117,x,West,OFF-1,Office Supplies,Staples,48,4,0,26.4
+194,CA-2016-100096,2/8/2016,2/11/2016,Corporate,CU-99,x,West,FUR-4,Furniture,Desk Chair,720,4,0,57.6
+195,CA-2016-100097,5/12/2016,5/15/2016,Corporate,CU-33,x,West,TEC-2,Technology,Wireless Mouse,200,5,0,60.0
+196,CA-2016-100097,8/19/2016,8/22/2016,Consumer,CU-47,x,West,FUR-3,Furniture,Bookcase,1500,5,0,-150.0
+197,CA-2016-100098,10/7/2016,10/10/2016,Consumer,CU-22,x,West,TEC-6,Technology,USB Hub,75,3,0,18.75
+198,CA-2016-100098,5/18/2016,5/21/2016,Home Office,CU-41,x,West,TEC-6,Technology,USB Hub,125,5,0,31.25
+199,CA-2016-100099,1/9/2016,1/12/2016,Home Office,CU-26,x,West,OFF-1,Office Supplies,Staples,48,4,0,26.4
+200,CA-2016-100099,9/21/2016,9/24/2016,Consumer,CU-46,x,West,OFF-1,Office Supplies,Staples,24,2,0,13.2
+201,CA-2016-100100,7/3/2016,7/6/2016,Home Office,CU-5,x,West,FUR-3,Furniture,Bookcase,600,2,0,-60.0
+202,CA-2016-100100,8/26/2016,8/29/2016,Corporate,CU-114,x,West,OFF-5,Office Supplies,Notebook A5,36,4,0,14.4
+203,CA-2016-100101,2/28/2016,3/2/2016,Consumer,CU-20,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+204,CA-2016-100101,6/6/2016,6/9/2016,Consumer,CU-10,x,West,OFF-1,Office Supplies,Staples,24,2,0,13.2
+205,CA-2016-100102,11/18/2016,11/21/2016,Home Office,CU-44,x,West,FUR-4,Furniture,Desk Chair,720,4,0,57.6
+206,CA-2016-100102,11/12/2016,11/15/2016,Corporate,CU-108,x,West,TEC-2,Technology,Wireless Mouse,120,3,0,36.0
+207,CA-2016-100103,4/25/2016,4/28/2016,Consumer,CU-110,x,West,FUR-4,Furniture,Desk Chair,900,5,0,72.0
+208,CA-2016-100103,8/18/2016,8/21/2016,Consumer,CU-71,x,West,FUR-3,Furniture,Bookcase,1500,5,0,-150.0
+209,CA-2016-100104,1/31/2016,2/3/2016,Consumer,CU-5,x,West,FUR-4,Furniture,Desk Chair,540,3,0,43.2
+210,CA-2016-100104,10/22/2016,10/25/2016,Corporate,CU-63,x,West,OFF-1,Office Supplies,Staples,12,1,0,6.6
+211,CA-2016-100105,4/7/2016,4/10/2016,Corporate,CU-52,x,West,FUR-3,Furniture,Bookcase,1500,5,0,-150.0
+212,CA-2016-100105,5/4/2016,5/7/2016,Home Office,CU-26,x,West,OFF-1,Office Supplies,Staples,12,1,0,6.6
+213,CA-2016-100106,12/18/2016,12/21/2016,Home Office,CU-19,x,West,TEC-2,Technology,Wireless Mouse,160,4,0,48.0
+214,CA-2016-100106,7/17/2016,7/20/2016,Corporate,CU-34,x,West,FUR-4,Furniture,Desk Chair,180,1,0,14.4
+215,CA-2016-100107,11/15/2016,11/18/2016,Home Office,CU-100,x,West,TEC-2,Technology,Wireless Mouse,160,4,0,48.0
+216,CA-2016-100107,3/12/2016,3/15/2016,Home Office,CU-72,x,West,OFF-1,Office Supplies,Staples,24,2,0,13.2
+217,CA-2016-100108,10/3/2016,10/6/2016,Home Office,CU-53,x,West,TEC-2,Technology,Wireless Mouse,120,3,0,36.0
+218,CA-2016-100108,12/29/2016,1/1/2017,Home Office,CU-97,x,West,OFF-1,Office Supplies,Staples,36,3,0,19.8
+219,CA-2016-100109,1/29/2016,2/1/2016,Corporate,CU-60,x,West,OFF-5,Office Supplies,Notebook A5,18,2,0,7.2
+220,CA-2016-100109,3/29/2016,4/1/2016,Consumer,CU-62,x,West,OFF-5,Office Supplies,Notebook A5,9,1,0,3.6
+221,CA-2016-100110,2/23/2016,2/26/2016,Corporate,CU-119,x,West,OFF-1,Office Supplies,Staples,48,4,0,26.4
+222,CA-2016-100110,4/3/2016,4/6/2016,Home Office,CU-36,x,West,TEC-2,Technology,Wireless Mouse,120,3,0,36.0
+223,CA-2016-100111,4/23/2016,4/26/2016,Corporate,CU-45,x,West,TEC-2,Technology,Wireless Mouse,120,3,0,36.0
+224,CA-2016-100111,1/27/2016,1/30/2016,Home Office,CU-63,x,West,OFF-5,Office Supplies,Notebook A5,9,1,0,3.6
+225,CA-2016-100112,11/23/2016,11/26/2016,Home Office,CU-107,x,West,TEC-6,Technology,USB Hub,100,4,0,25.0
+226,CA-2016-100112,4/4/2016,4/7/2016,Consumer,CU-44,x,West,OFF-1,Office Supplies,Staples,60,5,0,33.0
+227,CA-2016-100113,12/2/2016,12/5/2016,Consumer,CU-14,x,West,TEC-2,Technology,Wireless Mouse,80,2,0,24.0
+228,CA-2016-100113,10/5/2016,10/8/2016,Consumer,CU-97,x,West,TEC-2,Technology,Wireless Mouse,120,3,0,36.0
+229,CA-2016-100114,3/3/2016,3/6/2016,Home Office,CU-102,x,West,OFF-1,Office Supplies,Staples,24,2,0,13.2
+230,CA-2016-100114,9/11/2016,9/14/2016,Corporate,CU-24,x,West,TEC-6,Technology,USB Hub,100,4,0,25.0
+231,CA-2016-100115,10/9/2016,10/12/2016,Home Office,CU-98,x,West,OFF-5,Office Supplies,Notebook A5,36,4,0,14.4
+232,CA-2016-100115,2/16/2016,2/19/2016,Consumer,CU-20,x,West,TEC-6,Technology,USB Hub,125,5,0,31.25
+233,CA-2016-100116,2/17/2016,2/20/2016,Home Office,CU-93,x,West,FUR-4,Furniture,Desk Chair,900,5,0,72.0
+234,CA-2016-100116,5/17/2016,5/20/2016,Home Office,CU-36,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+235,CA-2016-100117,1/26/2016,1/29/2016,Corporate,CU-44,x,West,OFF-1,Office Supplies,Staples,60,5,0,33.0
+236,CA-2016-100117,6/2/2016,6/5/2016,Home Office,CU-86,x,West,FUR-3,Furniture,Bookcase,600,2,0,-60.0
+237,CA-2016-100118,6/24/2016,6/27/2016,Consumer,CU-58,x,West,FUR-3,Furniture,Bookcase,300,1,0,-30.0
+238,CA-2016-100118,8/30/2016,9/2/2016,Corporate,CU-65,x,West,OFF-5,Office Supplies,Notebook A5,18,2,0,7.2
+239,CA-2016-100119,7/27/2016,7/30/2016,Corporate,CU-77,x,West,OFF-1,Office Supplies,Staples,48,4,0,26.4
+240,CA-2016-100119,6/15/2016,6/18/2016,Corporate,CU-106,x,West,OFF-5,Office Supplies,Notebook A5,27,3,0,10.8
+241,CA-2016-100120,3/21/2016,3/24/2016,Home Office,CU-112,x,West,OFF-5,Office Supplies,Notebook A5,45,5,0,18.0
+242,CA-2016-100120,8/2/2016,8/5/2016,Home Office,CU-87,x,West,TEC-6,Technology,USB Hub,75,3,0,18.75
+243,CA-2016-100121,6/15/2016,6/18/2016,Corporate,CU-34,x,West,OFF-5,Office Supplies,Notebook A5,27,3,0,10.8
+244,CA-2016-100121,11/2/2016,11/5/2016,Home Office,CU-113,x,West,OFF-1,Office Supplies,Staples,48,4,0,26.4
+245,CA-2016-100122,9/12/2016,9/15/2016,Home Office,CU-34,x,West,FUR-3,Furniture,Bookcase,1500,5,0,-150.0
+246,CA-2016-100122,9/22/2016,9/25/2016,Home Office,CU-92,x,West,FUR-4,Furniture,Desk Chair,360,2,0,28.8
+247,CA-2016-100123,7/27/2016,7/30/2016,Home Office,CU-103,x,West,FUR-4,Furniture,Desk Chair,720,4,0,57.6
+248,CA-2016-100123,5/13/2016,5/16/2016,Home Office,CU-103,x,West,FUR-3,Furniture,Bookcase,300,1,0,-30.0
+249,CA-2016-100124,4/12/2016,4/15/2016,Consumer,CU-33,x,West,FUR-4,Furniture,Desk Chair,540,3,0,43.2
+250,CA-2016-100124,6/12/2016,6/15/2016,Consumer,CU-119,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+251,CA-2016-100125,7/27/2016,7/30/2016,Corporate,CU-10,x,West,TEC-6,Technology,USB Hub,125,5,0,31.25
+252,CA-2016-100125,5/14/2016,5/17/2016,Home Office,CU-86,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+253,CA-2016-100126,2/23/2016,2/26/2016,Home Office,CU-5,x,West,TEC-6,Technology,USB Hub,25,1,0,6.25
+254,CA-2016-100126,2/10/2016,2/13/2016,Consumer,CU-104,x,West,OFF-1,Office Supplies,Staples,12,1,0,6.6
+255,CA-2016-100127,1/17/2016,1/20/2016,Home Office,CU-38,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+256,CA-2016-100127,3/15/2016,3/18/2016,Corporate,CU-38,x,West,TEC-6,Technology,USB Hub,100,4,0,25.0
+257,CA-2016-100128,5/28/2016,5/31/2016,Corporate,CU-44,x,West,OFF-1,Office Supplies,Staples,48,4,0,26.4
+258,CA-2016-100128,4/13/2016,4/16/2016,Consumer,CU-47,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+259,CA-2016-100129,3/5/2016,3/8/2016,Consumer,CU-9,x,West,FUR-4,Furniture,Desk Chair,180,1,0,14.4
+260,CA-2016-100129,4/24/2016,4/27/2016,Corporate,CU-104,x,West,TEC-6,Technology,USB Hub,125,5,0,31.25
+261,CA-2016-100130,9/17/2016,9/20/2016,Home Office,CU-82,x,West,TEC-6,Technology,USB Hub,75,3,0,18.75
+262,CA-2016-100130,4/24/2016,4/27/2016,Consumer,CU-47,x,West,OFF-5,Office Supplies,Notebook A5,45,5,0,18.0
+263,CA-2016-100131,12/1/2016,12/4/2016,Corporate,CU-90,x,West,FUR-4,Furniture,Desk Chair,720,4,0,57.6
+264,CA-2016-100131,7/29/2016,8/1/2016,Corporate,CU-17,x,West,OFF-5,Office Supplies,Notebook A5,9,1,0,3.6
+265,CA-2016-100132,2/20/2016,2/23/2016,Corporate,CU-84,x,West,TEC-6,Technology,USB Hub,100,4,0,25.0
+266,CA-2016-100132,12/20/2016,12/23/2016,Corporate,CU-99,x,West,OFF-1,Office Supplies,Staples,12,1,0,6.6
+267,CA-2016-100133,11/17/2016,11/20/2016,Corporate,CU-40,x,West,OFF-5,Office Supplies,Notebook A5,45,5,0,18.0
+268,CA-2016-100133,10/9/2016,10/12/2016,Consumer,CU-14,x,West,FUR-4,Furniture,Desk Chair,360,2,0,28.8
+269,CA-2016-100134,2/27/2016,3/1/2016,Corporate,CU-14,x,West,OFF-5,Office Supplies,Notebook A5,27,3,0,10.8
+270,CA-2016-100134,10/15/2016,10/18/2016,Corporate,CU-75,x,West,TEC-6,Technology,USB Hub,75,3,0,18.75
+271,CA-2016-100135,9/12/2016,9/15/2016,Corporate,CU-9,x,West,OFF-1,Office Supplies,Staples,36,3,0,19.8
+272,CA-2016-100135,10/4/2016,10/7/2016,Home Office,CU-90,x,West,OFF-5,Office Supplies,Notebook A5,36,4,0,14.4
+273,CA-2016-100136,9/17/2016,9/20/2016,Home Office,CU-71,x,West,FUR-3,Furniture,Bookcase,300,1,0,-30.0
+274,CA-2016-100136,8/5/2016,8/8/2016,Corporate,CU-24,x,West,OFF-5,Office Supplies,Notebook A5,45,5,0,18.0
+275,CA-2016-100137,5/4/2016,5/7/2016,Consumer,CU-116,x,West,FUR-3,Furniture,Bookcase,1500,5,0,-150.0
+276,CA-2016-100137,11/30/2016,12/3/2016,Corporate,CU-104,x,West,OFF-1,Office Supplies,Staples,48,4,0,26.4
+277,CA-2016-100138,12/23/2016,12/26/2016,Consumer,CU-80,x,West,TEC-2,Technology,Wireless Mouse,80,2,0,24.0
+278,CA-2016-100138,9/8/2016,9/11/2016,Consumer,CU-6,x,West,TEC-2,Technology,Wireless Mouse,200,5,0,60.0
+279,CA-2016-100139,5/10/2016,5/13/2016,Consumer,CU-29,x,West,TEC-2,Technology,Wireless Mouse,200,5,0,60.0
+280,CA-2016-100139,7/1/2016,7/4/2016,Home Office,CU-77,x,West,OFF-1,Office Supplies,Staples,60,5,0,33.0
+281,CA-2016-100140,7/23/2016,7/26/2016,Consumer,CU-48,x,West,FUR-3,Furniture,Bookcase,1500,5,0,-150.0
+282,CA-2016-100140,1/29/2016,2/1/2016,Corporate,CU-110,x,West,TEC-2,Technology,Wireless Mouse,120,3,0,36.0
+283,CA-2016-100141,2/2/2016,2/5/2016,Consumer,CU-19,x,West,FUR-4,Furniture,Desk Chair,180,1,0,14.4
+284,CA-2016-100141,6/27/2016,6/30/2016,Consumer,CU-109,x,West,FUR-4,Furniture,Desk Chair,900,5,0,72.0
+285,CA-2016-100142,7/24/2016,7/27/2016,Consumer,CU-116,x,West,TEC-6,Technology,USB Hub,25,1,0,6.25
+286,CA-2016-100142,3/18/2016,3/21/2016,Consumer,CU-107,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+287,CA-2016-100143,4/6/2016,4/9/2016,Consumer,CU-3,x,West,OFF-5,Office Supplies,Notebook A5,45,5,0,18.0
+288,CA-2016-100143,2/18/2016,2/21/2016,Consumer,CU-39,x,West,FUR-4,Furniture,Desk Chair,180,1,0,14.4
+289,CA-2016-100144,11/30/2016,12/3/2016,Corporate,CU-95,x,West,TEC-6,Technology,USB Hub,125,5,0,31.25
+290,CA-2016-100144,7/3/2016,7/6/2016,Home Office,CU-103,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+291,CA-2016-100145,4/10/2016,4/13/2016,Consumer,CU-42,x,West,FUR-4,Furniture,Desk Chair,360,2,0,28.8
+292,CA-2016-100145,10/13/2016,10/16/2016,Corporate,CU-115,x,West,TEC-6,Technology,USB Hub,25,1,0,6.25
+293,CA-2016-100146,12/16/2016,12/19/2016,Consumer,CU-56,x,West,OFF-5,Office Supplies,Notebook A5,45,5,0,18.0
+294,CA-2016-100146,4/17/2016,4/20/2016,Home Office,CU-115,x,West,OFF-5,Office Supplies,Notebook A5,18,2,0,7.2
+295,CA-2016-100147,11/23/2016,11/26/2016,Corporate,CU-26,x,West,FUR-3,Furniture,Bookcase,600,2,0,-60.0
+296,CA-2016-100147,10/7/2016,10/10/2016,Corporate,CU-86,x,West,OFF-1,Office Supplies,Staples,36,3,0,19.8
+297,CA-2016-100148,10/16/2016,10/19/2016,Consumer,CU-13,x,West,OFF-1,Office Supplies,Staples,48,4,0,26.4
+298,CA-2016-100148,7/10/2016,7/13/2016,Consumer,CU-81,x,West,TEC-6,Technology,USB Hub,125,5,0,31.25
+299,CA-2016-100149,11/28/2016,12/1/2016,Consumer,CU-100,x,West,TEC-2,Technology,Wireless Mouse,40,1,0,12.0
+300,CA-2016-100149,2/24/2016,2/27/2016,Home Office,CU-100,x,West,OFF-5,Office Supplies,Notebook A5,45,5,0,18.0
+301,CA-2016-100150,2/2/2016,2/5/2016,Home Office,CU-57,x,West,FUR-4,Furniture,Desk Chair,180,1,0,14.4
+302,CA-2016-100150,12/18/2016,12/21/2016,Corporate,CU-106,x,West,OFF-5,Office Supplies,Notebook A5,27,3,0,10.8
+303,CA-2016-100151,6/27/2016,6/30/2016,Consumer,CU-10,x,West,FUR-4,Furniture,Desk Chair,540,3,0,43.2
+304,CA-2016-100151,5/26/2016,5/29/2016,Consumer,CU-114,x,West,OFF-1,Office Supplies,Staples,60,5,0,33.0
+305,CA-2016-100152,9/23/2016,9/26/2016,Corporate,CU-7,x,West,OFF-1,Office Supplies,Staples,36,3,0,19.8
+306,CA-2016-100152,4/17/2016,4/20/2016,Corporate,CU-89,x,West,TEC-6,Technology,USB Hub,125,5,0,31.25
+307,CA-2016-100153,8/20/2016,8/23/2016,Home Office,CU-1,x,West,FUR-4,Furniture,Desk Chair,900,5,0,72.0
+308,CA-2016-100153,11/5/2016,11/8/2016,Corporate,CU-34,x,West,TEC-2,Technology,Wireless Mouse,120,3,0,36.0
+309,CA-2016-100154,10/20/2016,10/23/2016,Corporate,CU-88,x,West,FUR-4,Furniture,Desk Chair,180,1,0,14.4
+310,CA-2016-100154,2/15/2016,2/18/2016,Consumer,CU-5,x,West,OFF-5,Office Supplies,Notebook A5,18,2,0,7.2
+311,CA-2016-100155,12/19/2016,12/22/2016,Consumer,CU-96,x,West,FUR-3,Furniture,Bookcase,300,1,0,-30.0
+312,CA-2016-100155,9/24/2016,9/27/2016,Consumer,CU-26,x,West,TEC-6,Technology,USB Hub,100,4,0,25.0
+313,CA-2016-100156,9/11/2016,9/14/2016,Consumer,CU-16,x,West,TEC-6,Technology,USB Hub,100,4,0,25.0
+314,CA-2016-100156,3/9/2016,3/12/2016,Corporate,CU-78,x,West,FUR-4,Furniture,Desk Chair,720,4,0,57.6
+315,CA-2016-100157,12/2/2016,12/5/2016,Consumer,CU-61,x,West,TEC-2,Technology,Wireless Mouse,40,1,0,12.0
+316,CA-2016-100157,5/23/2016,5/26/2016,Corporate,CU-91,x,West,OFF-5,Office Supplies,Notebook A5,36,4,0,14.4
+317,CA-2016-100158,12/9/2016,12/12/2016,Consumer,CU-106,x,West,FUR-3,Furniture,Bookcase,1200,4,0,-120.0
+318,CA-2016-100158,3/25/2016,3/28/2016,Home Office,CU-110,x,West,OFF-5,Office Supplies,Notebook A5,36,4,0,14.4
+319,CA-2016-100159,2/4/2016,2/7/2016,Corporate,CU-5,x,West,FUR-4,Furniture,Desk Chair,540,3,0,43.2
+320,CA-2016-100159,11/3/2016,11/6/2016,Home Office,CU-35,x,West,TEC-6,Technology,USB Hub,25,1,0,6.25
+321,CA-2016-100160,7/31/2016,8/3/2016,Consumer,CU-13,x,West,FUR-4,Furniture,Desk Chair,180,1,0,14.4
+322,CA-2016-100160,5/22/2016,5/25/2016,Consumer,CU-31,x,West,OFF-1,Office Supplies,Staples,36,3,0,19.8
+323,CA-2016-100161,12/22/2016,12/25/2016,Home Office,CU-89,x,West,TEC-2,Technology,Wireless Mouse,80,2,0,24.0
+324,CA-2016-100161,12/21/2016,12/24/2016,Consumer,CU-103,x,West,TEC-6,Technology,USB Hub,125,5,0,31.25
+325,CA-2016-100162,1/5/2016,1/8/2016,Consumer,CU-85,x,West,OFF-1,Office Supplies,Staples,24,2,0,13.2
+326,CA-2016-100162,8/16/2016,8/19/2016,Corporate,CU-18,x,West,FUR-4,Furniture,Desk Chair,900,5,0,72.0
+327,CA-2016-100163,10/21/2016,10/24/2016,Home Office,CU-78,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+328,CA-2016-100163,9/10/2016,9/13/2016,Consumer,CU-23,x,West,TEC-2,Technology,Wireless Mouse,80,2,0,24.0
+329,CA-2016-100164,8/7/2016,8/10/2016,Home Office,CU-2,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+330,CA-2016-100164,7/9/2016,7/12/2016,Home Office,CU-6,x,West,FUR-4,Furniture,Desk Chair,540,3,0,43.2
+331,CA-2016-100165,7/13/2016,7/16/2016,Consumer,CU-26,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+332,CA-2016-100165,4/22/2016,4/25/2016,Corporate,CU-15,x,West,TEC-2,Technology,Wireless Mouse,80,2,0,24.0
+333,CA-2016-100166,2/22/2016,2/25/2016,Corporate,CU-82,x,West,FUR-4,Furniture,Desk Chair,540,3,0,43.2
+334,CA-2016-100166,5/24/2016,5/27/2016,Home Office,CU-111,x,West,OFF-1,Office Supplies,Staples,24,2,0,13.2
+335,CA-2016-100167,9/11/2016,9/14/2016,Home Office,CU-37,x,West,OFF-1,Office Supplies,Staples,60,5,0,33.0
+336,CA-2016-100167,12/9/2016,12/12/2016,Home Office,CU-92,x,West,TEC-6,Technology,USB Hub,25,1,0,6.25
+337,CA-2016-100168,12/17/2016,12/20/2016,Consumer,CU-40,x,West,FUR-4,Furniture,Desk Chair,360,2,0,28.8
+338,CA-2016-100168,3/14/2016,3/17/2016,Home Office,CU-119,x,West,FUR-4,Furniture,Desk Chair,540,3,0,43.2
+339,CA-2016-100169,1/11/2016,1/14/2016,Home Office,CU-56,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+340,CA-2016-100169,12/26/2016,12/29/2016,Corporate,CU-82,x,West,OFF-5,Office Supplies,Notebook A5,36,4,0,14.4
+341,CA-2016-100170,9/2/2016,9/5/2016,Consumer,CU-71,x,West,TEC-2,Technology,Wireless Mouse,80,2,0,24.0
+342,CA-2016-100170,10/3/2016,10/6/2016,Corporate,CU-79,x,West,OFF-5,Office Supplies,Notebook A5,27,3,0,10.8
+343,CA-2016-100171,10/24/2016,10/27/2016,Corporate,CU-16,x,West,TEC-6,Technology,USB Hub,25,1,0,6.25
+344,CA-2016-100171,5/11/2016,5/14/2016,Home Office,CU-98,x,West,OFF-5,Office Supplies,Notebook A5,45,5,0,18.0
+345,CA-2016-100172,11/12/2016,11/15/2016,Home Office,CU-112,x,West,TEC-6,Technology,USB Hub,125,5,0,31.25
+346,CA-2016-100172,8/22/2016,8/25/2016,Home Office,CU-47,x,West,TEC-2,Technology,Wireless Mouse,200,5,0,60.0
+347,CA-2016-100173,8/22/2016,8/25/2016,Home Office,CU-77,x,West,TEC-6,Technology,USB Hub,100,4,0,25.0
+348,CA-2016-100173,5/19/2016,5/22/2016,Home Office,CU-81,x,West,TEC-6,Technology,USB Hub,75,3,0,18.75
+349,CA-2016-100174,5/5/2016,5/8/2016,Home Office,CU-103,x,West,OFF-5,Office Supplies,Notebook A5,18,2,0,7.2
+350,CA-2016-100174,5/19/2016,5/22/2016,Home Office,CU-18,x,West,FUR-3,Furniture,Bookcase,900,3,0,-90.0
+351,CA-2016-100175,9/17/2016,9/20/2016,Consumer,CU-77,x,West,TEC-6,Technology,USB Hub,25,1,0,6.25
+352,CA-2016-100175,7/2/2016,7/5/2016,Corporate,CU-114,x,West,OFF-5,Office Supplies,Notebook A5,18,2,0,7.2
+353,CA-2016-100176,1/8/2016,1/11/2016,Consumer,CU-38,x,West,OFF-1,Office Supplies,Staples,12,1,0,6.6
+354,CA-2016-100176,1/7/2016,1/10/2016,Home Office,CU-62,x,West,FUR-4,Furniture,Desk Chair,900,5,0,72.0
+355,CA-2016-100177,3/11/2016,3/14/2016,Home Office,CU-93,x,West,FUR-4,Furniture,Desk Chair,900,5,0,72.0
+356,CA-2016-100177,6/29/2016,7/2/2016,Consumer,CU-26,x,West,OFF-5,Office Supplies,Notebook A5,9,1,0,3.6
+357,CA-2016-100178,8/6/2016,8/9/2016,Consumer,CU-105,x,West,OFF-5,Office Supplies,Notebook A5,18,2,0,7.2
+358,CA-2016-100178,12/20/2016,12/23/2016,Home Office,CU-56,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+359,CA-2016-100179,10/11/2016,10/14/2016,Corporate,CU-39,x,West,TEC-2,Technology,Wireless Mouse,120,3,0,36.0
+360,CA-2016-100179,4/14/2016,4/17/2016,Home Office,CU-7,x,West,FUR-4,Furniture,Desk Chair,720,4,0,57.6
+361,CA-2016-100180,7/6/2016,7/9/2016,Home Office,CU-99,x,West,FUR-3,Furniture,Bookcase,600,2,0,-60.0
+362,CA-2016-100180,9/30/2016,10/3/2016,Consumer,CU-61,x,West,TEC-2,Technology,Wireless Mouse,160,4,0,48.0
+363,CA-2016-100181,11/18/2016,11/21/2016,Consumer,CU-16,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+364,CA-2016-100181,6/10/2016,6/13/2016,Home Office,CU-118,x,West,FUR-3,Furniture,Bookcase,900,3,0,-90.0
+365,CA-2016-100182,9/18/2016,9/21/2016,Home Office,CU-69,x,West,TEC-2,Technology,Wireless Mouse,120,3,0,36.0
+366,CA-2016-100182,3/17/2016,3/20/2016,Home Office,CU-106,x,West,FUR-4,Furniture,Desk Chair,900,5,0,72.0
+367,CA-2016-100183,6/16/2016,6/19/2016,Home Office,CU-114,x,West,TEC-2,Technology,Wireless Mouse,200,5,0,60.0
+368,CA-2016-100183,11/26/2016,11/29/2016,Home Office,CU-37,x,West,FUR-3,Furniture,Bookcase,1200,4,0,-120.0
+369,CA-2016-100184,5/19/2016,5/22/2016,Home Office,CU-42,x,West,OFF-5,Office Supplies,Notebook A5,36,4,0,14.4
+370,CA-2016-100184,1/7/2016,1/10/2016,Consumer,CU-17,x,West,FUR-3,Furniture,Bookcase,1500,5,0,-150.0
+371,CA-2016-100185,10/14/2016,10/17/2016,Corporate,CU-101,x,West,TEC-2,Technology,Wireless Mouse,120,3,0,36.0
+372,CA-2016-100185,4/20/2016,4/23/2016,Corporate,CU-72,x,West,TEC-6,Technology,USB Hub,75,3,0,18.75
+373,CA-2016-100186,6/9/2016,6/12/2016,Home Office,CU-34,x,West,FUR-3,Furniture,Bookcase,300,1,0,-30.0
+374,CA-2016-100186,12/30/2016,1/2/2017,Corporate,CU-79,x,West,OFF-5,Office Supplies,Notebook A5,45,5,0,18.0
+375,CA-2016-100187,5/21/2016,5/24/2016,Home Office,CU-62,x,West,OFF-5,Office Supplies,Notebook A5,18,2,0,7.2
+376,CA-2016-100187,4/5/2016,4/8/2016,Corporate,CU-94,x,West,OFF-5,Office Supplies,Notebook A5,36,4,0,14.4
+377,CA-2016-100188,3/26/2016,3/29/2016,Home Office,CU-35,x,West,OFF-1,Office Supplies,Staples,60,5,0,33.0
+378,CA-2016-100188,11/5/2016,11/8/2016,Corporate,CU-76,x,West,FUR-4,Furniture,Desk Chair,360,2,0,28.8
+379,CA-2016-100189,3/19/2016,3/22/2016,Corporate,CU-68,x,West,TEC-6,Technology,USB Hub,75,3,0,18.75
+380,CA-2016-100189,8/9/2016,8/12/2016,Consumer,CU-38,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+381,CA-2016-100190,3/27/2016,3/30/2016,Consumer,CU-43,x,West,FUR-3,Furniture,Bookcase,1200,4,0,-120.0
+382,CA-2016-100190,10/21/2016,10/24/2016,Corporate,CU-6,x,West,OFF-1,Office Supplies,Staples,48,4,0,26.4
+383,CA-2016-100191,9/19/2016,9/22/2016,Corporate,CU-25,x,West,OFF-5,Office Supplies,Notebook A5,45,5,0,18.0
+384,CA-2016-100191,8/18/2016,8/21/2016,Consumer,CU-110,x,West,FUR-4,Furniture,Desk Chair,540,3,0,43.2
+385,CA-2016-100192,6/4/2016,6/7/2016,Corporate,CU-28,x,West,OFF-1,Office Supplies,Staples,24,2,0,13.2
+386,CA-2016-100192,5/12/2016,5/15/2016,Home Office,CU-108,x,West,FUR-4,Furniture,Desk Chair,900,5,0,72.0
+387,CA-2016-100193,12/12/2016,12/15/2016,Corporate,CU-8,x,West,FUR-3,Furniture,Bookcase,900,3,0,-90.0
+388,CA-2016-100193,10/4/2016,10/7/2016,Consumer,CU-30,x,West,OFF-5,Office Supplies,Notebook A5,36,4,0,14.4
+389,CA-2016-100194,5/23/2016,5/26/2016,Home Office,CU-111,x,West,OFF-1,Office Supplies,Staples,24,2,0,13.2
+390,CA-2016-100194,1/10/2016,1/13/2016,Home Office,CU-53,x,West,OFF-5,Office Supplies,Notebook A5,36,4,0,14.4
+391,CA-2016-100195,2/16/2016,2/19/2016,Corporate,CU-45,x,West,FUR-3,Furniture,Bookcase,300,1,0,-30.0
+392,CA-2016-100195,6/12/2016,6/15/2016,Consumer,CU-37,x,West,FUR-4,Furniture,Desk Chair,900,5,0,72.0
+393,CA-2016-100196,6/16/2016,6/19/2016,Corporate,CU-73,x,West,TEC-2,Technology,Wireless Mouse,80,2,0,24.0
+394,CA-2016-100196,5/15/2016,5/18/2016,Consumer,CU-67,x,West,FUR-4,Furniture,Desk Chair,360,2,0,28.8
+395,CA-2016-100197,12/25/2016,12/28/2016,Corporate,CU-35,x,West,OFF-5,Office Supplies,Notebook A5,36,4,0,14.4
+396,CA-2016-100197,6/23/2016,6/26/2016,Corporate,CU-69,x,West,TEC-2,Technology,Wireless Mouse,120,3,0,36.0
+397,CA-2016-100198,10/16/2016,10/19/2016,Corporate,CU-27,x,West,TEC-6,Technology,USB Hub,50,2,0,12.5
+398,CA-2016-100198,2/16/2016,2/19/2016,Corporate,CU-68,x,West,FUR-3,Furniture,Bookcase,300,1,0,-30.0
+399,CA-2016-100199,5/16/2016,5/19/2016,Consumer,CU-3,x,West,OFF-1,Office Supplies,Staples,60,5,0,33.0
+400,CA-2016-100199,3/22/2016,3/25/2016,Home Office,CU-115,x,West,OFF-1,Office Supplies,Staples,60,5,0,33.0
