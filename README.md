@@ -6,7 +6,7 @@ Turn a shop's raw sales file into a clear dashboard: how much was sold, which pr
 
 Built with **Python, Pandas, Plotly and Streamlit**. UI designed in Stitch.
 
-> **Live demo:** [_add your Streamlit link here after deploying_](https://localbiz-analytics.streamlit.app/)
+> **Live demo:** [Click Here](https://localbiz-analytics.streamlit.app/)
 >
 > All data in this repository is **fictional demo data**. No real business is represented.
 
