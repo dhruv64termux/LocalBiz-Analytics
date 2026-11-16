@@ -13,7 +13,6 @@ from src import metrics as m
 from src.cleaning import FIELD_LABELS, check_mapping, clean, read_raw, suggest_mapping
 
 DATA_PATH = Path(__file__).parent / "data" / "sales_data.csv"
-STORE = "Mangala Store (Demo Retailer)"
 INDIGO, CYAN, GREEN, RED, PINK, AMBER = "#8b8ff5", "#6ec6ff", "#4ade80", "#f87171", "#fca5a5", "#fbbf24"
 
 st.set_page_config(page_title="LocalBiz Analytics", page_icon="📊", layout="wide")
@@ -42,6 +41,10 @@ header[data-testid="stHeader"] {background:transparent;}
 .sync .dot {display:inline-block; width:8px; height:8px; border-radius:50%; background:#4ade80; margin-right:8px;}
 .profile {display:flex; align-items:center; gap:10px; background:#0f1628; border:1px solid #1c2641; border-radius:12px; padding:10px 12px; margin-top:40px;}
 .avatar {width:34px; height:34px; border-radius:50%; background:#2b3470; display:flex; align-items:center; justify-content:center; font-weight:700; font-size:13px;}
+
+[data-testid="stSidebar"] .stButton button > div {justify-content:flex-start; width:100%;}
+[data-testid="stSidebar"] .stButton button p {text-align:left;}
+.bizpill {background:#111a2e; border:1px solid #1c2641; border-radius:10px; padding:9px 14px; font-size:14px; font-weight:600; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
 
 /* generic cards */
 [class*="st-key-card"] {background:#111a2e; border:1px solid #1c2641; border-radius:16px; padding:20px 22px;}
@@ -234,11 +237,7 @@ with st.sidebar:
                   type="primary" if st.session_state.page == _name else "secondary",
                   on_click=lambda n=_name: st.session_state.update(page=n))
     page = st.session_state.page
-    st.markdown(
-        f'<div class="profile"><div class="avatar">DO</div><div><b style="font-size:13px">Demo Owner</b><br>'
-        f'<span class="muted">{STORE}</span></div></div>',
-        unsafe_allow_html=True,
-    )
+    profile_slot = st.empty()
 
 # ---------------- header row ----------------
 hc = st.columns([2.4, 2.0, 2.1, 1.15, 1.15, 0.9], vertical_alignment="center")
@@ -276,6 +275,13 @@ if df.empty:
     st.error("No usable rows were found. Check the column mapping and the date format.")
     st.stop()
 
+BIZ = st.session_state.get("biz_name") or ("My Business" if upload else "Demo Store")
+_ini = "".join(w[0] for w in BIZ.split()[:2]).upper() or "B"
+profile_slot.markdown(
+    f'<div class="profile"><div class="avatar">{html.escape(_ini)}</div><div><b style="font-size:13px">{html.escape(BIZ)}</b><br>'
+    f'<span class="muted">{"Your data" if upload else "Sample data"}</span></div></div>',
+    unsafe_allow_html=True,
+)
 pill_slot.markdown(
     f'<div class="sync"><span class="dot"></span>{html.escape(upload.name) + " loaded" if upload else "Sample CSV loaded"}</div>',
     unsafe_allow_html=True,
@@ -292,7 +298,7 @@ if report["notes"]:
 dmin, dmax = df["date"].min().date(), df["date"].max().date()
 with hc[2]:
     rng = st.date_input("Date range", (dmax.replace(day=1), dmax), min_value=dmin, max_value=dmax, label_visibility="collapsed")
-hc[1].selectbox("Store", [STORE], label_visibility="collapsed")
+hc[1].markdown(f'<div class="bizpill">🏪 {html.escape(BIZ)}</div>', unsafe_allow_html=True)
 if not isinstance(rng, tuple) or len(rng) != 2:
     st.info("Pick an end date to continue.")
     st.stop()
@@ -632,7 +638,7 @@ elif page == "Reports":
     page_title("Reports", f"Download a shareable summary for {start:%d %b %Y} – {end:%d %b %Y}")
     pt = m.product_table(cur)
     att = m.attention_products(pt, **THR)
-    lines = [f"SALES SUMMARY: {STORE}", f"Period: {start:%d %b %Y} to {end:%d %b %Y}", "",
+    lines = [f"SALES SUMMARY: {BIZ}", f"Period: {start:%d %b %Y} to {end:%d %b %Y}", "",
              f"Revenue: {inr(S['revenue'])}", f"Profit: {inr(S['profit'])} ({S['margin']:.1f}% margin)",
              f"Orders: {S['orders']:,}   Average order value: {inr(S['aov'])}", "", "Top products by revenue:"]
     lines += [f"  {i}. {r.product_name} - {inr(r.revenue)} ({r.margin_pct:.0f}% margin)" for i, r in enumerate(pt.head(3).itertuples(), 1)]
@@ -654,6 +660,10 @@ elif page == "Reports":
 elif page == "Settings":
     page_title("Settings", "Tune what counts as a problem product")
     with st.container(key="card_set"):
+        bn = st.text_input("Business name", value=st.session_state.get("biz_name", ""), placeholder="e.g. Sharma General Store", key="_bn").strip()
+        if bn != st.session_state.get("biz_name", ""):
+            st.session_state["biz_name"] = bn
+            st.rerun()
         mf = st.number_input("Low-margin threshold (%)", 0.0, 50.0, float(st.session_state.get("margin_floor", 10)), 1.0, key="_mf")
         rc = st.number_input("High return-rate threshold (%)", 0.0, 50.0, float(st.session_state.get("return_ceiling", 7)), 0.5, key="_rc")
         st.session_state["margin_floor"], st.session_state["return_ceiling"] = mf, rc
